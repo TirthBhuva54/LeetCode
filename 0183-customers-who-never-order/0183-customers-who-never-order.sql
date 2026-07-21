@@ -1,0 +1,6 @@
+/* Write your T-SQL query statement below */
+SELECT C.NAME AS CUSTOMERS
+FROM CUSTOMERS C
+LEFT JOIN ORDERS O
+ON C.ID=O.customerId 
+WHERE O.CUSTOMERID IS NULL
