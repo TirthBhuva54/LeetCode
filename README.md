@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/TirthBhuva54/LeetCode/tree/master/0283-move-zeroes) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/TirthBhuva54/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
