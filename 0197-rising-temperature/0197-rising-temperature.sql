@@ -1,0 +1,6 @@
+/* Write your T-SQL query statement below */
+SELECT W1.ID AS ID
+FROM WEATHER W1
+JOIN WEATHER W2
+ON DATEDIFF(DAY,W2.recordDate ,W1.recordDate)=1
+WHERE W1.TEMPERATURE>W2.TEMPERATURE;
